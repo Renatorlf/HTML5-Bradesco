@@ -1,0 +1,13 @@
+<HTML>
+ 
+ <HEAD>
+  <TITLE>lINK COM IMAGEM</TITLE>
+ </HEAD>
+
+<BODY LINK="yellow">
+ <P>Click na imagem para acessar a Pagina indicada.</P>
+ <A HREF=https://www.google.com><img src=logo_google.png align = middle></A>Click na Imagem.
+ <P>para acessar o <A HREF=http://www.google.com>google</A> click na palavra destacada em azul
+</BODY>
+
+</HTML>

@@ -1,0 +1,15 @@
+<HTML>
+ 
+ <HEAD>
+  <TITLE>Estudo de tabelas</TITLE>
+ </HEAD>
+
+<BODY>
+ <FORM ACTION=email@email.com METHOD=GET>
+  <P><FONT FACE=CALIBRI>NOME <INPUT TYPE=TEXT NAME=nome SIZE=25 MAXLENGHT=50></P>
+  <P>Estado:<INPUT TYPE=TEXT NOME=uf SIZE=2 VALUE=SP></FONT></P>
+ </FORM>
+ </TABLE>
+</BODY>
+
+</HTML>

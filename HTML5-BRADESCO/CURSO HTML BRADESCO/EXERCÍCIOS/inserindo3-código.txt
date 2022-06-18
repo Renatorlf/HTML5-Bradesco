@@ -1,0 +1,13 @@
+<HTML>
+
+ <HEAD>
+  <TITLE>Inserindo Imagem</TITLE>
+ </HEAD>
+
+<BODY>
+ <P>Imagem do meu amor na <I>Web</I>.</P>
+  <IMG SRC="logo bradesco.png">
+ 
+</BODY>
+
+<HTML/>

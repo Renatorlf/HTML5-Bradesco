@@ -1,0 +1,18 @@
+<HTML>
+ 
+ <HEAD>
+  <TITLE>Estudo de tabelas</TITLE>
+ </HEAD>
+
+<BODY>
+ <FORM>
+  <SELECT NAME=cidades SIZE=4>
+   <OPTION>Londres
+   <OPTION>Paris
+   <OPTION>Roma
+   <OPTION>Madri
+  </SELECT>
+ </FORM>
+</BODY>
+
+</HTML>

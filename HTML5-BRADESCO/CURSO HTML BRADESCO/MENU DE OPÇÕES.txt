@@ -1,0 +1,23 @@
+<HTML>
+ 
+ <HEAD>
+  <TITLE>MENU DE OPÇÕES</TITLE>
+ </HEAD>
+
+<BODY>
+ <H3>EXEMPLO DE MENU DE OPÇÕES</H3>
+ <H4>Escolha as cidades que deseja conhecer</H4>
+ <FORM>
+  <SELECT>
+   <OPTION>Londres
+   <OPTION>Paris
+   <OPTION>Roma
+   <OPTION>Madri
+   <OPTION>Pesqueira
+   <OPTION>Recife
+   <OPTION>Arcoverde
+  </SELECT>
+ </FORM>
+</BODY>
+
+</HTML>

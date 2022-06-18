@@ -1,0 +1,13 @@
+<HTML>
+
+ <HEAD>
+  <TITLE>Inserindo Imagem</TITLE>
+ </HEAD>
+
+<BODY>
+ <P><FONT SIZE=5><B>LOGO BRADESCO NA <I>WEB</I>.</B></FONT></P>
+  <P>IMAGEM AO TOPO DO TEXTO.<IMG SRC="logo bradesco.png" ALIGN="MIDDLE">EXEMPLO DE TEXTO.</P>
+ 
+</BODY>
+
+<HTML/>

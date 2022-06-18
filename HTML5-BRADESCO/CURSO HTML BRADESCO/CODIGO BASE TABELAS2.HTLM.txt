@@ -1,0 +1,21 @@
+<HTML>
+ 
+ <HEAD>
+  <TITLE>Estudo de tabelas</TITLE>
+ </HEAD>
+
+<BODY>
+ <TABLE WIDTH=300 HEIGHT=40% DORDER=4>
+  <TR BGCOLOR=#E0EEEE>
+   <TD FONE FACE=COMIC SANS MS><B>NOME<B></FACE></TD>
+   <TD>SOBRENOME</TD>
+  <TR>
+   <TD>Renato</TD>
+   <TD>Lopes</TD>
+  <TR>
+   <TD>Keila</TD>
+   <TD>Regina</TD>
+ </TABLE>
+</BODY>
+
+</HTML>
